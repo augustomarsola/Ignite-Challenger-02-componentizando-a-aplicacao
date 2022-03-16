@@ -27,3 +27,8 @@ input, textarea {
 button {
   cursor: pointer;
 }
+
+.app-content {
+  display: flex;
+  flex-direction: row;
+}
